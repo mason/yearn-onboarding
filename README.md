@@ -1,4 +1,4 @@
-# How to get started developing for yearn
+# How to get started contributing to yearn
 
 Welcome to Yearn!
 
